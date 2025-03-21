@@ -91,7 +91,7 @@ public class App {
     }
 
     public static boolean tocando(){
-        boolean atendeu = new Random().nextInt(3)==1;
+        boolean atendeu = new Random().nextInt(3) == 1;
         System.out.println("Atendeu? " + atendeu);
         return !atendeu;
     }
