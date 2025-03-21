@@ -1,4 +1,3 @@
-import java.sql.Date;
 
 public class TiposVariaveis {
     public static void main(String[] args) {
@@ -28,6 +27,6 @@ public class TiposVariaveis {
         final int NUMERO_CONST = 25; 
 
         System.out.println(NUMERO_CONST);
-
+        
     }
 }
